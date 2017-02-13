@@ -1,0 +1,8 @@
+[package]
+authors = ["Cristi Cobzarenco <cristi.cobzarenco@gmail.com>"]
+name = "diff"
+version = "0.1.0"
+
+[dependencies]
+lazy_static = "0.2.2"
+ordered-float = "0.4.0"
